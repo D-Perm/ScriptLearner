@@ -1,0 +1,30 @@
+body {
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(180deg, hsl(197, 100%, 59%), hsl(166, 100%, 65%));
+    font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+    text-align: center;
+}
+textarea {
+    border-radius:15px;
+    text-align:center;
+    font-family:Helvetica, Helvetica Neue, Arial, sans-sarif;
+    font-size: 1rem;
+}
+h1 {
+    text-align:center;
+}
+button {
+    background-color:blue;
+    color:white;
+    border-radius:15px;
+    border:none;
+    margin:10px;
+    font-size:20px;
+    size: 20px;
+}
+button:hover {
+    background-color:rgb(0, 0, 214);
+    cursor: pointer;
+}
